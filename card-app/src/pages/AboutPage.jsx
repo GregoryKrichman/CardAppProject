@@ -47,10 +47,10 @@ export default function AboutPage() {
               <Typography
                 sx={{
                   fontSize: "17px",
-                  backgroundColor: "#333333",
+
                   padding: "10px",
                   borderRadius: "4px",
-                  color: "white",
+                  color: "black",
                 }}
               >
                 "the My Cards page"
