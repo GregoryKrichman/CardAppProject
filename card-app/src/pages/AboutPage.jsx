@@ -46,8 +46,7 @@ export default function AboutPage() {
             ) : (
               <Typography
                 sx={{
-                  fontSize: "17px",
-
+                  fontSize: "16px",
                   padding: "10px",
                   borderRadius: "4px",
                   color: "black",
