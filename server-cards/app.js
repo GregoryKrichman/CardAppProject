@@ -48,7 +48,7 @@ const cards = [
     address: {
       state: "TLV",
       country: "Israel",
-      street: "gefen",
+      street: "Hanagid",
       houseNumber: 2,
       city: "Ramat Gan",
       zip: 1315,
@@ -122,7 +122,7 @@ const users = [
       state: "Haifa",
       country: "Israel",
       city: "tel aviv",
-      street: "dezingoff",
+      street: "Igal Alon",
       zip: 123456,
       houseNumber: 3,
     },
